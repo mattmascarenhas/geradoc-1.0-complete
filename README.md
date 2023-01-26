@@ -2,6 +2,31 @@
 <h1>Imagens do sistema</h1>
 
 Versão 1.1
+- Mudanças na interface foram feitas.
+- A página Index foi modificada para ter utilidade, dando uma visão geral dos clientes, blocos e textos, de maneira interativa.
+- Adição de variáveis genéricas, para facilitar e poupar trabalho do usuário.
+- Ao criar um texto o usuário poderá utilizar essas variáveis genéricas, onde um único texto servirá para todos os clientes, onde cada cliente terá suas informações apresentadas no texto de maneira individual, como propõe o app.
+- Na página de de criar texto, tem botões interativos que explicam ao usuário como funciona as variáveis genéricas.
+
+
+- Nova página Index interativa.
+![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/page-index-1.1.png)
+
+- Nova tabela de clientes.
+![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/client-table-1.1.png)
+
+- Nova tabela de blocos.
+![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/blocks-table-1.1.png)
+
+- Nova tabela de textos.
+![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/text-table-1.1.png)
+
+- Variáveis genéricas contendo as informações do cliente 
+![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/var-generic-1.1.png)
+
+- Variáveis genéricas contendo as informações do cliente, em uso.
+![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/var-generic-in-use-1.1.png)
+
 
 Versão 1.0
 ![alt text](https://github.com/mattmascarenhas/geradoc-1.0-complete/blob/master/img/clients.png)
